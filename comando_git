@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-git init = 40;
-=======
-git init = 50
->>>>>>> 0d3d4f2 (enviando_alteracao)
+
+git init = 405;
